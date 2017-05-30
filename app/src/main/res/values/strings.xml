@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Storj for Android</string>
+    <string name="title_activity_bucket">Buckets</string>
+    <string name="login_to_existing_account">Login to existing account</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="login">Login</string>
+</resources>
